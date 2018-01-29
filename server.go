@@ -10,6 +10,7 @@ import (
 	"strings"
 	"fmt"
 	"os"
+	"github.com/rs/cors"
 )
 
 // Revel's variables server, router, etc
